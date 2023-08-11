@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(236, 183, 165);
+    padding-left: 20%;
+    padding-top: 10%;
+}
+
+.p {
+    padding-left: 23%;
+}
+
+.form {
+    padding-left: 28%;
+}
+
+.predict {
+    padding-left: 32%;
+}
